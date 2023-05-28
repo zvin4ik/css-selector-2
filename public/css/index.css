@@ -1,1 +1,91 @@
+/* Урок 4 */
+/*----------------------------------------*/
+.lesson-four-task-one button:hover {
+	color: red;
+	background-color: yellow;
+} /* Завдання 1 */
 
+.lesson-four-task-two a:hover + h1 {
+	background-color: green;
+} /* Завдання 2 */
+
+.lesson-four-task-three a:visited {
+	color: yellow;
+} /* Завдання 3 */
+
+.lesson-four-task-four #sidebar:link {
+	color: red;
+} /* Завдання 4. Не впевнений, що правильно написав код*/
+
+.lesson-four-task-five .btn:active {
+	background-color: blue;
+} /* Завдання 5 */
+
+.lesson-four-task-six .btn:focus{
+	color: orange;
+	background-color: orange;
+} /* Завдання 6 */
+
+.lesson-four-task-seven #target:target {
+	color: white;
+	background-color: green;
+} /* Завдання 7 */
+
+.lesson-four-task-eight input[type='checkbox']:checked ~ #target {
+	color: white;
+	background: blue;
+} /* Завдання 8 */
+
+.lesson-four-task-nine p:lang(uk) {
+	color: blue;
+} /* Завдання 9 */
+
+.lesson-four-task-ten input:enabled {
+	color: red;
+	background-color: yellow;
+} /* Завдання 10 */
+
+.lesson-four-task-eleven input:disabled {
+	background-color: yellow;
+} /* Завдання 11 */
+
+.lesson-four-task-twelve input:read-write {
+	background-color: yellow;
+} /* Завдання 12 */
+
+.lesson-four-task-thirteen input:read-only {
+	background-color: yellow;
+} /* Завдання 13 */
+
+.lesson-four-task-fourteen 
+	input:valid {
+		background-color: green;
+	}
+	input:invalid {
+		background-color: red;
+	} /* Завдання 14 */
+
+.lesson-four-task-fifteen input:optional {
+	background-color: red;
+} /* Завдання 15 */
+
+.lesson-four-task-sixteen input:out-of-range {
+	color: red;
+} /* Завдання 16 */
+
+.lesson-four-task-seventeen input:in-range {
+	color: red;
+} /* Завдання 17 */
+
+.lesson-four-task-eighteen input:placeholder-shown {
+	background-color: red;
+} /* Завдання 18 */
+
+.lesson-four-task-nineteen .btn-group:focus-within {
+	color: white;
+	background-color: yellow;
+} /* Завдання 19 */
+
+.lesson-four-task-twenty input:invalid {
+	background-color: red;
+} /* Завдання 20 */
