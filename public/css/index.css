@@ -13,9 +13,9 @@
 	color: yellow;
 } /* Завдання 3 */
 
-.lesson-four-task-four #sidebar:link {
+.lesson-four-task-four a:link {
 	color: red;
-} /* Завдання 4. Не впевнений, що правильно написав код*/
+}/* Завдання 4 */
 
 .lesson-four-task-five .btn:active {
 	background-color: blue;
@@ -81,7 +81,7 @@
 	background-color: red;
 } /* Завдання 18 */
 
-.lesson-four-task-nineteen .btn-group:focus-within {
+.lesson-four-task-nineteen button:focus-within {
 	color: white;
 	background-color: yellow;
 } /* Завдання 19 */
